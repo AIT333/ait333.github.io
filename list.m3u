@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, Comedy Central
+https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIzIDEwOjM2OjEwIEFNJmhhc2hfdmFsdWU9WDVJamhQYUVUdTVwUWNGSy9vUkFxZz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
+
+#EXTINF:-1, Comedy Central
+https://mix.streamsport.net:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIzIDEwOjM2OjI2IEFNJmhhc2hfdmFsdWU9bzBxWU04WjBBci9MdzR6TjJnbDh1dz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
+
+#EXTINF:-1, Comedy Central
+https://us2.justv.org:8080/hls/comedy_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIzIDEwOjM2OjU5IEFNJmhhc2hfdmFsdWU9YXl3Wm9DeTA1N3BEc1VMMlNEditBdz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
+
+#EXTINF:-1, Comedy Central
+http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
