@@ -33,6 +33,30 @@ https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 #EXTINF:-1, Ю
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
 
+#EXTINF:-1, 2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+
+#EXTINF:-1, Советские мультфильмы
+http://cdn-lb.iptv2022.com/p/ioXVvgUFwYgyzU5ymjpdRw,1674888525/streaming/rusmult/324/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Кухня ТВ
+http://109.197.192.121:8080/kuhnia/index.m3u8
+
+#EXTINF:-1, Еда HD
+http://185.23.80.28:8080/Eda/index.m3u8
+
+
+#Viasat
+
+#EXTINF:-1, Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+
+#EXTINF:-1, Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+
+#EXTINF:-1, Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+
 
 #VIP
 
@@ -47,6 +71,9 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 
 #EXTINF:-1, VIP Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+
+
+#START
 
 #EXTINF:-1, START Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
@@ -66,3 +93,74 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
 #EXTINF:-1, TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 
+
+#КИНО
+
+#EXTINF:-1, .black HD
+http://myott.top/stream/DEKA6YA5JRN/263.m3u8
+
+#EXTINF:-1, .red HD
+http://myott.top/stream/DEKA6YA5JRN/69.m3u8
+
+#EXTINF:-1, Sony Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+
+#EXTINF:-1, НСТ
+http://185.23.80.28:8080/NST/index.m3u8
+
+#EXTINF:-1, Шокирующее HD
+http://myott.top/stream/DEKA6YA5JRN/75.m3u8
+
+#EXTINF:-1, Премиальное HD
+http://myott.top/stream/DEKA6YA5JRN/421.m3u8
+
+#EXTINF:-1, Остросюжетное HD
+http://myott.top/stream/DEKA6YA5JRN/214.m3u8
+
+#EXTINF:-1, Комедия
+http://79.141.211.254:8000/Komedia
+
+#EXTINF:-1, Комедийное HD
+http://myott.top/stream/DEKA6YA5JRN/74.m3u8
+
+#EXTINF:-1, Кинохит
+http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+
+#EXTINF:-1, Киноужас HD
+http://myott.top/stream/DEKA6YA5JRN/278.m3u8
+
+#EXTINF:-1, Киносерия 
+http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
+
+#EXTINF:-1, Киносемья HD
+http://myott.top/stream/DEKA6YA5JRN/170.m3u8
+
+#EXTINF:-1, Киносвидание HD
+http://myott.top/stream/DEKA6YA5JRN/171.m3u8
+
+#EXTINF:-1, Кинопоказ
+http://185.23.80.28:8080/Kinopokaz/index.m3u8
+
+#EXTINF:-1, Кинокомедия HD
+http://myott.top/stream/DEKA6YA5JRN/265.m3u8
+
+#EXTINF:-1, Кино ТВ HD
+http://185.23.80.28:8080/Kino_TV/index.m3u8
+
+#EXTINF:-1, Видеокассета HD
+https://v2.catcast.tv/content/37925/index.m3u8
+
+#EXTINF:-1, Блокбастер HD
+http://185.23.80.28:8080/Blockbaster/index.m3u8
+
+#EXTINF:-1, FAN
+http://185.23.80.28:8080/FAN/index.m3u8
+
+#EXTINF:-1, TV XXI
+http://176.74.80.162:8099/TVXXI/index.m3u8
+
+#EXTINF:-1, Американские комедии
+http://fs1.persik.by/394997/index.m3u8
+
+#EXTINF:-1, Путешествие во времени
+http://fs1.persik.by/462737/index.m3u8
