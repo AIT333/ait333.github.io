@@ -12,6 +12,12 @@ https://us2.justv.org:8080/hls/comedy_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1, Comedy Central
 http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 
+#EXTINF:-1, Comedy Central
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/6000/index.m3u
+
+#EXTINF:-1, Comedy Central
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/157/index.m3u
+
 #EXTINF:-1, ТНТ
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 
@@ -39,8 +45,17 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1, Советские мультфильмы
 http://cdn-lb.iptv2022.com/p/ioXVvgUFwYgyzU5ymjpdRw,1674888525/streaming/rusmult/324/1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Nickelodeon HD
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/223/index.m3u
+
 #EXTINF:-1, Кухня ТВ
 http://109.197.192.121:8080/kuhnia/index.m3u8
+
+#EXTINF:-1, Animal Planet HD
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/218/index.m3u
+
+#EXTINF:-1, Discovery Channel HD
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/227/index.m3u
 
 
 #Viasat
@@ -161,3 +176,36 @@ http://fs1.persik.by/394997/index.m3u8
 
 #EXTINF:-1, Путешествие во времени
 http://fs1.persik.by/462737/index.m3u8
+
+
+#CINEMAN
+
+#EXTINF:-1, CineMan Симпсоны
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/15101/index.m3u
+
+#EXTINF:-1, CineMan Ужасы
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11010/index.m3u
+
+#EXTINF:-1, CineMan Комедия
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11011/index.m3u
+
+#EXTINF:-1, CineMan Катастрофы
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/15106/index.m3u
+
+#EXTINF:-1, CineMan VHS
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11012/index.m3u
+
+#EXTINF:-1, CineMan Top
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11005/index.m3u
+
+#EXTINF:-1, CineMan Thriller
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11007/index.m3u
+
+#EXTINF:-1, CineMan Action
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11006/index.m3u
+
+#EXTINF:-1, CineMan
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11004/index.m3u
+
+#EXTINF:-1, CineMan Marvel
+http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11009/index.m3u
