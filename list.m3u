@@ -101,6 +101,9 @@ http://myott.top/stream/DEKA6YA5JRN/69.m3u8
 #EXTINF:-1, Sony Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 
+#EXTINF:-1, Киноужас HD
+http://myott.top/stream/DEKA6YA5JRN/278.m3u8
+
 #EXTINF:-1, НСТ
 http://185.23.80.28:8080/NST/index.m3u8
 
@@ -121,12 +124,6 @@ http://myott.top/stream/DEKA6YA5JRN/74.m3u8
 
 #EXTINF:-1, Кинохит
 http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
-
-#EXTINF:-1, Киноужас HD
-http://myott.top/stream/DEKA6YA5JRN/278.m3u8
-
-#EXTINF:-1, Киносерия 
-http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
 
 #EXTINF:-1, Киносемья HD
 http://myott.top/stream/DEKA6YA5JRN/170.m3u8
