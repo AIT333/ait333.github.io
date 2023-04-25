@@ -2,19 +2,10 @@
 
 
 #EXTINF:-1, Comedy Central
-https://mix.streamsport.net:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIzIDEwOjM2OjI2IEFNJmhhc2hfdmFsdWU9bzBxWU04WjBBci9MdzR6TjJnbDh1dz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
-
-#EXTINF:-1, Comedy Central
-https://us2.justv.org:8080/hls/comedy_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDIzIDEwOjM2OjU5IEFNJmhhc2hfdmFsdWU9YXl3Wm9DeTA1N3BEc1VMMlNEditBdz09JnZhbGlkbWludXRlcz0xNDQwMDAwMDAwMA==
-
-#EXTINF:-1, Comedy Central
 http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 
 #EXTINF:-1, Comedy Central
 http://edge04.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-
-#EXTINF:-1, Comedy Central
-http://streamer.enchart.one/42/6802d7d77f79b75dd74edc5f5ece73ddc9af5744/159/stream.m3u8
 
 
 #EXTINF:-1, ТНТ
@@ -43,9 +34,6 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 
 #EXTINF:-1, Советские мультфильмы
 http://cdn-lb.iptv2022.com/p/ioXVvgUFwYgyzU5ymjpdRw,1674888525/streaming/rusmult/324/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Food time
-http://streamer.enchart.one/42/6802d7d77f79b75dd74edc5f5ece73ddc9af5744/120/stream.m3u8
 
 
 #VIP
@@ -92,18 +80,6 @@ http://myott.top/stream/DEKA6YA5JRN/278.m3u8
 #EXTINF:-1, НСТ
 http://185.23.80.28:8080/NST/index.m3u8
 
-#EXTINF:-1, Magic Horror
-http://streamer.enchart.one/42/6802d7d77f79b75dd74edc5f5ece73ddc9af5744/1865/stream.m3u8
-
-#EXTINF:-1, KLI Horror FHD
-http://streamer.enchart.one/42/6802d7d77f79b75dd74edc5f5ece73ddc9af5744/1961/stream.m3u8
-
-#EXTINF:-1, CineMan Ужасы
-http://streamer.enchart.one/42/6802d7d77f79b75dd74edc5f5ece73ddc9af5744/1759/stream.m3u8
-
-#EXTINF:-1, CineMan Катастрофы
-http://streamer.enchart.one/42/6802d7d77f79b75dd74edc5f5ece73ddc9af5744/1754/stream.m3u8
-
 #EXTINF:-1, Шокирующее HD
 http://myott.top/stream/DEKA6YA5JRN/75.m3u8
 
@@ -145,9 +121,6 @@ http://185.23.80.28:8080/FAN/index.m3u8
 
 #EXTINF:-1, TV XXI
 http://176.74.80.162:8099/TVXXI/index.m3u8
-
-#EXTINF:-1, КИНО UHD 4K
-http://streamer.enchart.one/42/6802d7d77f79b75dd74edc5f5ece73ddc9af5744/1291/stream.m3u8
 
 #EXTINF:-1, Американские комедии
 http://fs1.persik.by/394997/index.m3u8
