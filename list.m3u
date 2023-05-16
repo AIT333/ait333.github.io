@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1, Comedy Central
+https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDY6MDU6NDkgUE0maGFzaF92YWx1ZT1YNTcxYWd2dkJaZTY5THNRY3pMdTlnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+
+#EXTINF:-1, Comedy Central
+https://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+
+#EXTINF:-1, Comedy Central
+https://us2.justv.org:8080/hls/comedy_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDY6MDc6NDQgUE0maGFzaF92YWx1ZT1mOWpnUGd4c3EzYlhNS1NBaUFXOGlnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+
+#EXTINF:-1, Comedy Central
+https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDY6MDk6NDAgUE0maGFzaF92YWx1ZT1FTkM5TnR5VnplYWxlTHZPazI3RFl3PT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 #EXTINF:-1, Comedy Central
 http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
