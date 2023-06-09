@@ -1,22 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, Comedy Central
-https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDY6MDU6NDkgUE0maGFzaF92YWx1ZT1YNTcxYWd2dkJaZTY5THNRY3pMdTlnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjMgMTI6MzM6NDggUE0maGFzaF92YWx1ZT0zV3luOG94NllXZ2ovYWxrWm5oZHhRPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 #EXTINF:-1, Comedy Central
-https://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-
-#EXTINF:-1, Comedy Central
-https://us2.justv.org:8080/hls/comedy_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDY6MDc6NDQgUE0maGFzaF92YWx1ZT1mOWpnUGd4c3EzYlhNS1NBaUFXOGlnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
-
-#EXTINF:-1, Comedy Central
-https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDY6MDk6NDAgUE0maGFzaF92YWx1ZT1FTkM5TnR5VnplYWxlTHZPazI3RFl3PT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
-
-#EXTINF:-1, Comedy Central
-http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-
-#EXTINF:-1, Comedy Central
-http://edge04.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+https://mix.streamsport.net:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjMgMTI6MzU6MDYgUE0maGFzaF92YWx1ZT1hZGlQMVJVTDBvT2NJSCtabFJqd3RnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 
 #EXTINF:-1, ТНТ
@@ -76,68 +64,8 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 
 #КИНО
 
-#EXTINF:-1, .black HD
-http://myott.top/stream/DEKA6YA5JRN/263.m3u8
-
-#EXTINF:-1, .red HD
-http://myott.top/stream/DEKA6YA5JRN/69.m3u8
-
 #EXTINF:-1, Sony Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
-
-#EXTINF:-1, Киноужас HD
-http://myott.top/stream/DEKA6YA5JRN/278.m3u8
-
-#EXTINF:-1, НСТ
-http://185.23.80.28:8080/NST/index.m3u8
-
-#EXTINF:-1, Шокирующее HD
-http://myott.top/stream/DEKA6YA5JRN/75.m3u8
-
-#EXTINF:-1, Премиальное HD
-http://myott.top/stream/DEKA6YA5JRN/421.m3u8
-
-#EXTINF:-1, Остросюжетное HD
-http://myott.top/stream/DEKA6YA5JRN/214.m3u8
-
-#EXTINF:-1, Комедия
-http://79.141.211.254:8000/Komedia
-
-#EXTINF:-1, Комедийное HD
-http://myott.top/stream/DEKA6YA5JRN/74.m3u8
-
-#EXTINF:-1, Кинохит
-http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
-
-#EXTINF:-1, Киносемья HD
-http://myott.top/stream/DEKA6YA5JRN/170.m3u8
-
-#EXTINF:-1, Киносвидание HD
-http://myott.top/stream/DEKA6YA5JRN/171.m3u8
-
-#EXTINF:-1, Кинопоказ
-http://185.23.80.28:8080/Kinopokaz/index.m3u8
-
-#EXTINF:-1, Кинокомедия HD
-http://myott.top/stream/DEKA6YA5JRN/265.m3u8
-
-#EXTINF:-1, Кино ТВ HD
-http://185.23.80.28:8080/Kino_TV/index.m3u8
-
-#EXTINF:-1, Блокбастер HD
-http://185.23.80.28:8080/Blockbaster/index.m3u8
-
-#EXTINF:-1, FAN
-http://185.23.80.28:8080/FAN/index.m3u8
-
-#EXTINF:-1, TV XXI
-http://176.74.80.162:8099/TVXXI/index.m3u8
-
-#EXTINF:-1, Американские комедии
-http://fs1.persik.by/394997/index.m3u8
-
-#EXTINF:-1, Путешествие во времени
-http://fs1.persik.by/462737/index.m3u8
 
 #EXTINF:-1, Видеокассета HD
 https://v2.catcast.tv/content/37925/index.m3u8
