@@ -1,10 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1, Comedy Central
-https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjMgMTI6MzM6NDggUE0maGFzaF92YWx1ZT0zV3luOG94NllXZ2ovYWxrWm5oZHhRPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIzIDU6MDQ6MzUgUE0maGFzaF92YWx1ZT0rNTZvT2M4bFE5TTlVbDFvVEFBS1d3PT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 #EXTINF:-1, Comedy Central
-https://mix.streamsport.net:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjMgMTI6MzU6MDYgUE0maGFzaF92YWx1ZT1hZGlQMVJVTDBvT2NJSCtabFJqd3RnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+https://nl2.justv.org:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIzIDU6MDU6NTAgUE0maGFzaF92YWx1ZT02cm9KYkFEc1JmM3ppdVNkRHpIOUNnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+
+#EXTINF:-1, Comedy Central
+https://mix.streamsport.net:8080/hls/comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIzIDU6MjA6MzEgUE0maGFzaF92YWx1ZT03dUVWY21zS3k1MmplaVdSSk0vUUtnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+
 
 
 #EXTINF:-1, ТНТ
@@ -33,6 +37,9 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 
 #EXTINF:-1, Советские мультфильмы
 http://cdn-lb.iptv2022.com/p/ioXVvgUFwYgyzU5ymjpdRw,1674888525/streaming/rusmult/324/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Disney Cartoon
+https://fr.streamsport.net:8080/hls/disney/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIzIDU6MjQ6MzQgUE0maGFzaF92YWx1ZT1FVGVRZkNYQlJaRzhKWkJ6bTJFN1dnPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 
 #VIP
@@ -67,8 +74,11 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 #EXTINF:-1, Sony Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 
-#EXTINF:-1, Видеокассета HD
-https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1, Шокирующее HD
+https://nl2.justv.org:8080/hls/shok_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIzIDU6Mjc6NDMgUE0maGFzaF92YWx1ZT1taHdjaWNpV1BOclVjdzFMZTJGMXRBPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+
+#EXTINF:-1, Дом Кино Премиум HD
+https://us2.justv.org:8080/hls/domkinopremium/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIzIDU6MzQ6MTYgUE0maGFzaF92YWx1ZT1wMnFTN1FQcTdxNjZHTzYrVFhiRjR3PT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 
 #Viasat
